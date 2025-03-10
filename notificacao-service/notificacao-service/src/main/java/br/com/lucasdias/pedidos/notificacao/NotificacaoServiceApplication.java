@@ -1,4 +1,4 @@
-package br.com.lucasdias.pedidos.notificacao.notificacao;
+package br.com.lucasdias.pedidos.notificacao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

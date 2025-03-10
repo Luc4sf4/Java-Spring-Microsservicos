@@ -1,4 +1,4 @@
-package br.com.lucasdias.pedidos.notificacao.notificacao;
+package br.com.lucasdias.pedidos.notificacao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
