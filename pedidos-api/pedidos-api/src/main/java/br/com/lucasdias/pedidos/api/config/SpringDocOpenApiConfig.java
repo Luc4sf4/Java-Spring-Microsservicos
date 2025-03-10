@@ -18,7 +18,7 @@ public class SpringDocOpenApiConfig {
                         new Info()
                                 .title("Rest API - Pedidos")
                                 .description("Api de realizacao de pedidos")
-                                .license(new License().name("Apache 2.0").url("https://www.apache.org/license/LICENSE-2.0"))
+                                .license(new License().name("Apache 2.0").url("https://www.apache.org/licenses/LICENSE-2.0"))
                                 .contact(new Contact().name("Lucas Fenandes Dias").email("fernandes.dias.lucas2005@gmail.com"))
                 );
     }
