@@ -17,4 +17,5 @@ public class ItemPedido {
 
     private Integer quantidade;
 
+    private Pedido pedido;
 }
